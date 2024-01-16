@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartGame.unity
+    guid: 39a26b95a7499f345979de815a3ce73b
+  - enabled: 1
+    path: Assets/Scenes/AboutUs.unity
+    guid: ad697d6fa4246344595085b52b4b5908
+  - enabled: 1
+    path: Assets/Scenes/GameMode.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Instuction.unity
+    guid: 130cac69336d34b408e6cda45f33af0f
+  - enabled: 1
+    path: Assets/Scenes/Normal.unity
+    guid: d3ddd575a26fd1a4a9d3ad9902be991c
+  - enabled: 1
+    path: Assets/Scenes/Hard.unity
+    guid: e857adbdf6579274c9f27db50b621b4b
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: bca916b31643ed3479d1144c3bc668dd
+  - enabled: 1
+    path: Assets/Scenes/Lose.unity
+    guid: 2124e943cd2a4f846acd21bc8718d8b4
+  - enabled: 1
+    path: Assets/Scenes/HighscoreTable.unity
+    guid: 7b983534fcd6adb4d8ec50e55837c14a
+  m_configObjects: {}
